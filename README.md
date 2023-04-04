@@ -3,11 +3,11 @@
 
 ## Getting Started
 * To get started, simply clone the repository to your local machine. `$ git clone https://github.com/Toby16/Dark_Facebook`
-* You can then open the index.html file in your preferred browser to view the page.
+* You can then open the `index.html` file in your preferred browser to view the page.
 
 ## Usage
 * The login page is designed to be simple and easy to use.
-* Users can enter their email or phone number and password to log into their Facebook account.
+* Users can enter their `email or phone number` and `password` to log into their Facebook account.
 
 ## Customization
 * Feel free to modify the CSS styles to customize the page to your liking.
@@ -15,3 +15,6 @@
 
 ## Contributing
 * If you have any suggestions, bug reports, or feature requests, feel free to submit an issue
+
+## Author
+* `Baasit Bolaji Ayomiposi` - <a href="https://github.com/Toby16">Toby16</a>
