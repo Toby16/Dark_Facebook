@@ -15,6 +15,7 @@
 
 ## Contributing
 * If you have any suggestions, bug reports, or feature requests, feel free to submit an issue
+`P.S. I finished this project in a few hours`
 
 ## Author
 * `Baasit Bolaji Ayomiposi` - <a href="https://github.com/Toby16">Toby16</a>
